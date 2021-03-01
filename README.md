@@ -4,6 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-htamada-E4405F?logo=instagram)](https://instagram.com/htamada)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-htamada-0A66C2?logo=linkedin)](https://www.linkedin.com/in/htamada)
 [![Facebook](https://img.shields.io/badge/Facebook-haruaki.tamada-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/haruaki.tamada)
+[![Reddit](https://img.shields.io/badge/Reddit-u/tamada3-FF4500?logo=reddit)](https://www.reddit.com/user/tamada3)
 
 [![GitHub](https://img.shields.io/badge/GitHub-tamada-181717?logo=github)](https://github.com/tamada)
 [![Docker Hub](https://img.shields.io/badge/Docker%20Hub-tamada-2496ED?logo=docker&logoColor=white)](https://hub.docker.com/u/tamada/)
