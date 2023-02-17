@@ -1,4 +1,4 @@
-# Haruaki Tamada
+# Haruaki Tamada ![](https://komarev.com/ghpvc/?username=tamada)
 
 [![Twitter](https://img.shields.io/badge/Twitter-%40tama5-1DA1F2?logo=twitter)](https://twitter.com/tama5)
 [![Instagram](https://img.shields.io/badge/Instagram-htamada-E4405F?logo=instagram)](https://instagram.com/htamada)
