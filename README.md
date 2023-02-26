@@ -15,6 +15,7 @@
 [![ORCID](https://img.shields.io/badge/ORCID-H.%20Tamada-A6CE39?logo=orcid)](https://orcid.org/0000-0003-1838-9184)
 [![Academia.edu](https://img.shields.io/badge/Academia-H.%20Tamada-41454A?logo=academia)](https://kyoto-su.academia.edu/HTamada)
 [![Research Gate](https://img.shields.io/badge/Research%20Gate-H.%20Tamada-00CCBB?logo=researchgate)](https://www.researchgate.net/profile/Haruaki_Tamada)
+[![DBLP](https://img.shields.io/badge/DBLP-Haruaki%20Tamada-004F9F?logo=dblp)](https://dblp.uni-trier.de/pid/07/389.html)
 
 [![Homebrew](https://img.shields.io/badge/Homebrew-tamada/brew-FBB040?logo=homebrew)](https://github.com/tamada/homebrew-brew)
 [![buy me a coffee](https://img.shields.io/badge/Buy%20me-a%20coffee!-ffdd00?logo=buy%20me%20a%20coffee)](https://www.buymeacoffee.com/KP27ij5)
