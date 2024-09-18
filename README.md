@@ -16,7 +16,7 @@
 [![Bitbucket](https://img.shields.io/badge/Bitbucket-htamada-0052CC?logo=bitbucket)](https://bitbucket.org/htamada/)
 [![GitLab](https://img.shields.io/badge/GitLab-htamada-FCA121?logo=gitlab)](https://gitlab.com/htamada)
 [![Codeberg](https://img.shields.io/badge/Codeberg-tamada-2185D0?logo=codeberg)](https://codeberg.org/tamada)
-[![Gitea](https://img.shields.io/badge/Gitea-tamada-609926)](https://gitea.com/tamada)
+[![Gitea](https://img.shields.io/badge/Gitea-tamada-609926?logo=gitea)](https://gitea.com/tamada)
 
 [![Docker Hub](https://img.shields.io/badge/Docker%20Hub-tamada-2496ED?logo=docker&logoColor=white)](https://hub.docker.com/u/tamada/)
 
