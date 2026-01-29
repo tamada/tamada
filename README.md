@@ -36,16 +36,17 @@
 
 ## Development Profile
 
-### GitHub Stars
+### Profile Summary
 
-[![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tamada&theme=github)]
+[![Profile Details](.github/assets/profile-summary-card/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Repos/Language](.github/assets/profile-summary-card/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![Most commit language](.github/assets/profile-summary-card/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Stats](.github/assets/profile-summary-card/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![Productive time](.github/assets/profile-summary-card/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamada&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+### GitHub Stats
 
-### Languages
-
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tamada&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Stats](.github/assets/stats.svg)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](.github/assets/top-langs.svg)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tamada)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](.github/assets/trophy.svg)](https://github.com/ryo-ma/github-profile-trophy)

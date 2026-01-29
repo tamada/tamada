@@ -38,6 +38,14 @@ jobs:
           path: .github/assets/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&show_icons=true
+          path: .github/assets/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Setup git
         run: |
           git config --global user.name "github-actions[bot]"
