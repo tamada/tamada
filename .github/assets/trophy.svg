@@ -1,8 +1,8 @@
 
     <svg
-      width="1365"
-      height="115"
-      viewBox="0 0 1365 115"
+      width="915"
+      height="220"
+      viewBox="0 0 915 220"
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
     >
@@ -10,9 +10,9 @@
         <svg
           x="0"
           y="0"
-          width="115"
-          height="115"
-          viewBox="0 0 115 115"
+          width="110"
+          height="110"
+          viewBox="0 0 110 110"
           fill="none"
           xmlns="http://www.w3.org/2000/svg"
         >
@@ -20,8 +20,8 @@
             x="0.5"
             y="0.5"
             rx="4.5"
-            width="114"
-            height="114"
+            width="109"
+            height="109"
             stroke="#e1e4e8"
             fill="#FFF"
             stroke-opacity="1"
@@ -60,7 +60,7 @@
         width: 0px;
       }
       to {
-        width: 80px;
+        width: 80.00px;
       }
     }
     #MultiLanguage-rank-progress{
@@ -88,11 +88,11 @@
         </svg>
         
         <svg
-          x="125"
+          x="115"
           y="0"
-          width="115"
-          height="115"
-          viewBox="0 0 115 115"
+          width="110"
+          height="110"
+          viewBox="0 0 110 110"
           fill="none"
           xmlns="http://www.w3.org/2000/svg"
         >
@@ -100,8 +100,8 @@
             x="0.5"
             y="0.5"
             rx="4.5"
-            width="114"
-            height="114"
+            width="109"
+            height="109"
             stroke="#e1e4e8"
             fill="#FFF"
             stroke-opacity="1"
@@ -140,7 +140,7 @@
         width: 0px;
       }
       to {
-        width: 80px;
+        width: 80.00px;
       }
     }
     #LongTimeUser-rank-progress{
@@ -168,11 +168,11 @@
         </svg>
         
         <svg
-          x="250"
+          x="230"
           y="0"
-          width="115"
-          height="115"
-          viewBox="0 0 115 115"
+          width="110"
+          height="110"
+          viewBox="0 0 110 110"
           fill="none"
           xmlns="http://www.w3.org/2000/svg"
         >
@@ -180,8 +180,8 @@
             x="0.5"
             y="0.5"
             rx="4.5"
-            width="114"
-            height="114"
+            width="109"
+            height="109"
             stroke="#e1e4e8"
             fill="#FFF"
             stroke-opacity="1"
@@ -220,7 +220,7 @@
         width: 0px;
       }
       to {
-        width: 80px;
+        width: 80.00px;
       }
     }
     #AncientUser-rank-progress{
@@ -248,11 +248,11 @@
         </svg>
         
         <svg
-          x="375"
+          x="345"
           y="0"
-          width="115"
-          height="115"
-          viewBox="0 0 115 115"
+          width="110"
+          height="110"
+          viewBox="0 0 110 110"
           fill="none"
           xmlns="http://www.w3.org/2000/svg"
         >
@@ -260,8 +260,8 @@
             x="0.5"
             y="0.5"
             rx="4.5"
-            width="114"
-            height="114"
+            width="109"
+            height="109"
             stroke="#e1e4e8"
             fill="#FFF"
             stroke-opacity="1"
@@ -339,7 +339,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         width: 0px;
       }
       to {
-        width: 80px;
+        width: 80.00px;
       }
     }
     #Repositories-rank-progress{
@@ -367,11 +367,11 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         </svg>
         
         <svg
-          x="500"
+          x="460"
           y="0"
-          width="115"
-          height="115"
-          viewBox="0 0 115 115"
+          width="110"
+          height="110"
+          viewBox="0 0 110 110"
           fill="none"
           xmlns="http://www.w3.org/2000/svg"
         >
@@ -379,8 +379,8 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
             x="0.5"
             y="0.5"
             rx="4.5"
-            width="114"
-            height="114"
+            width="109"
+            height="109"
             stroke="#e1e4e8"
             fill="#FFF"
             stroke-opacity="1"
@@ -449,7 +449,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         width: 0px;
       }
       to {
-        width: 14.559999999999999px;
+        width: 14.56px;
       }
     }
     #PullRequest-rank-progress{
@@ -477,11 +477,11 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         </svg>
         
         <svg
-          x="625"
+          x="575"
           y="0"
-          width="115"
-          height="115"
-          viewBox="0 0 115 115"
+          width="110"
+          height="110"
+          viewBox="0 0 110 110"
           fill="none"
           xmlns="http://www.w3.org/2000/svg"
         >
@@ -489,8 +489,8 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
             x="0.5"
             y="0.5"
             rx="4.5"
-            width="114"
-            height="114"
+            width="109"
+            height="109"
             stroke="#e1e4e8"
             fill="#FFF"
             stroke-opacity="1"
@@ -559,7 +559,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         width: 0px;
       }
       to {
-        width: 5.333333333333333px;
+        width: 5.33px;
       }
     }
     #Experience-rank-progress{
@@ -587,11 +587,11 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         </svg>
         
         <svg
-          x="750"
+          x="690"
           y="0"
-          width="115"
-          height="115"
-          viewBox="0 0 115 115"
+          width="110"
+          height="110"
+          viewBox="0 0 110 110"
           fill="none"
           xmlns="http://www.w3.org/2000/svg"
         >
@@ -599,8 +599,8 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
             x="0.5"
             y="0.5"
             rx="4.5"
-            width="114"
-            height="114"
+            width="109"
+            height="109"
             stroke="#e1e4e8"
             fill="#FFF"
             stroke-opacity="1"
@@ -660,7 +660,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         width: 0px;
       }
       to {
-        width: 20px;
+        width: 20.00px;
       }
     }
     #Issues-rank-progress{
@@ -688,11 +688,11 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         </svg>
         
         <svg
-          x="875"
+          x="805"
           y="0"
-          width="115"
-          height="115"
-          viewBox="0 0 115 115"
+          width="110"
+          height="110"
+          viewBox="0 0 110 110"
           fill="none"
           xmlns="http://www.w3.org/2000/svg"
         >
@@ -700,8 +700,8 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
             x="0.5"
             y="0.5"
             rx="4.5"
-            width="114"
-            height="114"
+            width="109"
+            height="109"
             stroke="#e1e4e8"
             fill="#FFF"
             stroke-opacity="1"
@@ -771,7 +771,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
   
           <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#000">Commits</text>
           <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10.5" fill="#666">Ultra Committer</text>
-          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#666">963pt</text>
+          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#666">964pt</text>
           
     <style>
     @keyframes CommitsRankAnimation {
@@ -779,7 +779,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         width: 0px;
       }
       to {
-        width: 74.08px;
+        width: 74.24px;
       }
     }
     #Commits-rank-progress{
@@ -807,11 +807,11 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         </svg>
         
         <svg
-          x="1000"
-          y="0"
-          width="115"
-          height="115"
-          viewBox="0 0 115 115"
+          x="0"
+          y="110"
+          width="110"
+          height="110"
+          viewBox="0 0 110 110"
           fill="none"
           xmlns="http://www.w3.org/2000/svg"
         >
@@ -819,8 +819,8 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
             x="0.5"
             y="0.5"
             rx="4.5"
-            width="114"
-            height="114"
+            width="109"
+            height="109"
             stroke="#e1e4e8"
             fill="#FFF"
             stroke-opacity="1"
@@ -880,7 +880,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         width: 0px;
       }
       to {
-        width: 16px;
+        width: 16.00px;
       }
     }
     #Stars-rank-progress{
@@ -908,11 +908,11 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         </svg>
         
         <svg
-          x="1125"
-          y="0"
-          width="115"
-          height="115"
-          viewBox="0 0 115 115"
+          x="115"
+          y="110"
+          width="110"
+          height="110"
+          viewBox="0 0 110 110"
           fill="none"
           xmlns="http://www.w3.org/2000/svg"
         >
@@ -920,8 +920,8 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
             x="0.5"
             y="0.5"
             rx="4.5"
-            width="114"
-            height="114"
+            width="109"
+            height="109"
             stroke="#e1e4e8"
             fill="#FFF"
             stroke-opacity="1"
@@ -960,7 +960,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         width: 0px;
       }
       to {
-        width: 40px;
+        width: 40.00px;
       }
     }
     #Followers-rank-progress{
@@ -988,11 +988,11 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         </svg>
         
         <svg
-          x="1250"
-          y="0"
-          width="115"
-          height="115"
-          viewBox="0 0 115 115"
+          x="230"
+          y="110"
+          width="110"
+          height="110"
+          viewBox="0 0 110 110"
           fill="none"
           xmlns="http://www.w3.org/2000/svg"
         >
@@ -1000,8 +1000,8 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
             x="0.5"
             y="0.5"
             rx="4.5"
-            width="114"
-            height="114"
+            width="109"
+            height="109"
             stroke="#e1e4e8"
             fill="#FFF"
             stroke-opacity="1"
@@ -1040,7 +1040,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         width: 0px;
       }
       to {
-        width: 0px;
+        width: 0.00px;
       }
     }
     #Reviews-rank-progress{
