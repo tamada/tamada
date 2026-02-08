@@ -21,7 +21,7 @@
 [![Gitea](https://img.shields.io/badge/Gitea-tamada-609926?logo=gitea)](https://gitea.com/tamada)
 
 [![Docker Hub](https://img.shields.io/badge/Docker%20Hub-tamada-2496ED?logo=docker&logoColor=white)](https://hub.docker.com/u/tamada/)
-[![crates.io](https://img.shields.io/badge/crates.io-tamada-000000?logo=rust)](https://crates.io/users/tamada)
+[![crates.io](https://img.shields.io/badge/crates.io-tamada-FDD078?logo=rust)](https://crates.io/users/tamada)
 
 ### Researchers' SNS
 
