@@ -7,8 +7,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-htamada-E4405F?logo=instagram)](https://instagram.com/htamada)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-htamada-0A66C2?logo=linkedin)](https://www.linkedin.com/in/htamada)
 [![Facebook](https://img.shields.io/badge/Facebook-haruaki.tamada-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/haruaki.tamada)
+[![Qiita](https://img.shields.io/badge/Qiita-tama5-55C500?logo=qiita)](https://qiita.com/tama5)
 [![Reddit](https://img.shields.io/badge/Reddit-u/tamada3-FF4500?logo=reddit)](https://www.reddit.com/user/tamada3)
 [![X](https://img.shields.io/badge/X-%40tama5-000000?logo=x)](https://x.com/tama5)
+[![zenn.dev](https://img.shields.io/badge/zenn.dev-tamada-3EA8FF?logo=zenn)](https://zenn.dev/tamada)
 
 ### Developers' SNS
 
@@ -35,6 +37,10 @@
 [![buy me a coffee](https://img.shields.io/badge/Buy%20me-a%20coffee!-ffdd00?logo=buy%20me%20a%20coffee)](https://www.buymeacoffee.com/KP27ij5)
 
 ## Development Profile
+
+### Skill Icons
+
+[![Skill Icons](https://skillicons.dev/icons?i=apple,bash,c,docker,eclipse,emacs,git,github,githubactions,go,html,java,js,latex,maven,md,obsidian,pkl,python,rust,vscode&theme=light&perline=7)](https://skillicons.dev)
 
 ### Profile Summary
 
