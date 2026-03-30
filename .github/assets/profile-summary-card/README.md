@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/tamada/tamada/main/profile-summary-card-output/github/4-productive-time.svg)
-```
-
-    
