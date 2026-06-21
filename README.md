@@ -27,9 +27,11 @@
 ### Researchers' SNS
 
 [![Academia.edu](https://img.shields.io/badge/Academia-H.%20Tamada-41454A?logo=academia)](https://kyoto-su.academia.edu/HTamada)
+[![ACM](https://img.shields.io/badge/dl.acm.org-H.%20Tamada-0085CA?logo=acm)](https://dl.acm.org/action/doSearch?field1=ContribAuthor&text1=Haruaki+Tamada)
 [![arXiv](https://img.shields.io/badge/arXiv-Haruaki%20Tamada-B31B1B?logo=arxiv)](https://arxiv.org/search/?query=Tamada%2C+Haruaki&searchtype=author)
 [![DBLP](https://img.shields.io/badge/DBLP-Haruaki%20Tamada-004F9F?logo=dblp)](https://dblp.uni-trier.de/pid/07/389.html)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-H.%20Tamada-4285F4?logo=google%20scholar&logoColor=white)](https://scholar.google.co.jp/citations?user=Qbslp6UAAAAJ)
+[![IEEE Xplore](https://img.shields.io/badge/IEEE%20Xplore-H.%20Tamada-00629B?logo=ieee)](https://ieeexplore.ieee.org/author/37684409700)
 [![ORCID](https://img.shields.io/badge/ORCID-H.%20Tamada-A6CE39?logo=orcid)](https://orcid.org/0000-0003-1838-9184)
 [![Research Gate](https://img.shields.io/badge/Research%20Gate-H.%20Tamada-00CCBB?logo=researchgate)](https://www.researchgate.net/profile/Haruaki_Tamada)
 [![Zenodo](https://img.shields.io/badge/Zenodo-Haruaki%20Tamada-1682D4?logo=zenodo)](https://zenodo.org/search?q=haruaki%20tamada&sort=newest)
