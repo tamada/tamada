@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Haruaki Tamada&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 36, Total Commits  (last year) : 1903, Total PRs: 945, Total Issues: 582, Contributed to (last year): 4</desc>
+        <desc id="descId">Total Stars Earned: 36, Total Commits  (last year) : 1910, Total PRs: 945, Total Issues: 582, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 64.08293272729605;
+        stroke-dashoffset: 64.07881721246687;
       }
     }
   
